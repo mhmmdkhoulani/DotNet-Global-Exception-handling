@@ -1,0 +1,6 @@
+@DotNetExcptionHandling_HostAddress = http://localhost:5147
+
+GET {{DotNetExcptionHandling_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
